@@ -3,7 +3,8 @@ Predicting anomalies and attack types of the nslkdd dataset
 # NSL-KDD UEBA Anomaly Detection
 
 High-accuracy anomaly detection using the NSL-KDD dataset. This is a **UEBA-style behavioral detection model**, not rule-based IDS.
-how to run : Use the KDDTrain+_20Percent.csv file to run the notebook locally.
+
+How to run : Use the KDDTrain+_20Percent.csv file to run the notebook locally.
 ## 🔧 Method
 
 - **Stage 1:** Isolation Forest for anomaly detection
